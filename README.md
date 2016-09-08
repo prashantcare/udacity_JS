@@ -1,2 +1,2 @@
 # udacity_JS
-learning java script
+learning java script basics.
